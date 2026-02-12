@@ -1,0 +1,378 @@
+{
+  "category": "CONSPIRACY_THEORY",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/reptilians",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "reptilians",
+    "name": "Reptilians",
+    "aliases": [
+      {
+        "name": "Reptoids",
+        "meaning": "Reptile humanoids"
+      },
+      {
+        "name": "Reptilian Humanoids",
+        "meaning": "Descriptive term"
+      },
+      {
+        "name": "Lizard People",
+        "meaning": "Colloquial term"
+      },
+      {
+        "name": "Reptilian Elite",
+        "meaning": "Conspiracy theory variant"
+      }
+    ],
+    "category": "CONSPIRACY_THEORY",
+    "subcategory": "Alien/UFO conspiracy",
+    "tags": [
+      "conspiracy-theory",
+      "aliens",
+      "ufos",
+      "shapeshifters",
+      "new-world-order",
+      "no-evidence",
+      "antisemitic-elements",
+      "david-icke"
+    ],
+    "status": "debunked",
+    "description": {
+      "summary": "Conspiracy theory alleging reptilian humanoid aliens secretly control Earth, particularly through shapeshifting into positions of power. Promoted mainly by David Icke since the 1990s.",
+      "full": "The Reptilian conspiracy theory alleges that reptilian humanoid aliens secretly control Earth and humanity. Popularized by British conspiracy theorist David Icke from the 1990s onward, the theory claims these beings can shapeshift to appear human and have infiltrated the highest levels of power, including royal families, politicians, and the so-called 'Illuminati.' The reptilians are portrayed as malevolent entities manipulating human society. The concept has roots in 1930s pulp science fiction but gained conspiracy traction in Icke's work. The theory has been widely criticized for containing antisemitic tropes, particularly in its targeting of banking families and global elites. No credible evidence supports the existence of reptilian aliens. The theory is considered a harmful conspiracy belief that has influenced real-world actions and violence."
+    },
+    "etymology": {
+      "origin": "Derived from science fiction depictions of reptilian aliens; popularized in conspiracy context by David Icke",
+      "meaning": "Humanoid beings with reptilian features",
+      "first_use": "1990s (conspiracy context)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CONSPIRACY_THEORY",
+      "type": "Alien/UFO conspiracy",
+      "subtype": "New World Order",
+      "variant": "Shapeshifter narrative"
+    },
+    "related_phenomena": [
+      {
+        "id": "new-world-order",
+        "name": "New World Order",
+        "relationship": "connected",
+        "description": "Broader conspiracy theory framework"
+      },
+      {
+        "id": "illuminati",
+        "name": "Illuminati",
+        "relationship": "connected",
+        "description": "Secret society conspiracy theories"
+      },
+      {
+        "id": "ufos",
+        "name": "UFOs/Aliens",
+        "relationship": "connected",
+        "description": "Extraterrestrial component"
+      },
+      {
+        "id": "greys",
+        "name": "Grey Aliens",
+        "relationship": "related",
+        "description": "Different alien species in conspiracy lore"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "description": "Varies; allegedly humanoid",
+        "confidence": "none"
+      },
+      "weight": {
+        "description": "Unknown",
+        "confidence": "none"
+      },
+      "coloration": [
+        "Green (claimed)",
+        "Scaled skin (claimed)"
+      ],
+      "features": [
+        {
+          "feature": "Reptilian features",
+          "description": "Scaled skin, reptilian eyes, sometimes tails",
+          "frequency": "claimed"
+        },
+        {
+          "feature": "Shapeshifting ability",
+          "description": "Ability to appear human",
+          "frequency": "claimed"
+        },
+        {
+          "feature": "Humanoid form",
+          "description": "Bipedal with human-like proportions",
+          "frequency": "claimed"
+        }
+      ],
+      "morphology": "Claimed to be humanoid with reptilian characteristics including scales, vertical slit pupils, and cold-blooded physiology."
+    },
+    "abilities": [
+      {
+        "ability": "Shapeshifting",
+        "description": "Claimed ability to appear fully human",
+        "frequency": "claimed",
+        "evidence_level": "none"
+      },
+      {
+        "ability": "Mind control",
+        "description": "Alleged psychic manipulation abilities",
+        "frequency": "claimed",
+        "evidence_level": "none"
+      },
+      {
+        "ability": "Advanced technology",
+        "description": "Superior alien technology",
+        "frequency": "claimed",
+        "evidence_level": "none"
+      }
+    ],
+    "behavior": {
+      "activity_period": "continuous",
+      "disposition": "malevolent (claimed)",
+      "social_structure": "hierarchical (claimed)",
+      "habitat_preference": [
+        "positions of power (claimed)",
+        "underground bases (claimed)"
+      ],
+      "patterns": [
+        "Infiltration of human institutions (claimed)",
+        "Control through deception (claimed)",
+        "Interbreeding with humans (claimed)"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Conspiracy theory is global; alleged reptilians claimed to control worldwide",
+      "continents": ["Global (conspiracy theory)"],
+      "countries": ["Worldwide (claims)"],
+      "regions": [
+        "Positions of political power (claimed)",
+        "Royal families (claimed)",
+        "Banking institutions (claimed)"
+      ]
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "1930s",
+        "circa": true,
+        "source": "Science fiction pulp magazines"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1990s-present",
+          "description": "David Icke popularizes conspiracy theory"
+        }
+      ],
+      "seasonal_patterns": "N/A"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Pulp science fiction of 1930s-1940s; conspiracy theory development in 1990s",
+      "earliest_accounts": "Science fiction stories featuring reptilian aliens",
+      "folklore_connections": "Some superficial connections to dragon/serpent mythology exploited by conspiracy theorists"
+    },
+    "timeline": [
+      {
+        "date": "1930s-1940s",
+        "event": "Pulp sci-fi reptilian aliens",
+        "significance": "Early fictional depictions of reptilian humanoids",
+        "source": "Science fiction magazines"
+      },
+      {
+        "date": "1967",
+        "event": "Star Trek 'Gorn' episode",
+        "significance": "Popular culture reptilian alien",
+        "source": "Star Trek: The Original Series"
+      },
+      {
+        "date": "1983-1985",
+        "event": "V television series",
+        "significance": "Influential depiction of reptilian aliens disguised as humans",
+        "source": "NBC miniseries and series"
+      },
+      {
+        "date": "1988",
+        "event": "They Live film",
+        "significance": "Aliens secretly controlling society (not reptilian but influential)",
+        "source": "John Carpenter film"
+      },
+      {
+        "date": "1999",
+        "event": "David Icke's 'The Biggest Secret'",
+        "significance": "Major popularization of reptilian conspiracy theory",
+        "source": "Book by David Icke"
+      },
+      {
+        "date": "2000s-present",
+        "event": "Internet proliferation",
+        "significance": "Theory spreads widely online, influencing conspiracy culture",
+        "source": "Internet forums, YouTube, social media"
+      }
+    ],
+    "modern_era": "The reptilian conspiracy theory continues to circulate online and has influenced broader conspiracy movements. It has been linked to real-world harassment and violence, and is widely rejected by mainstream society and experts."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0,
+      "date_range": {
+        "earliest": "N/A",
+        "latest": "N/A"
+      }
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [
+      {
+        "id": "alleged-shapeshifting-videos",
+        "type": "video",
+        "name": "Various alleged 'shapeshifting' videos",
+        "description": "Videos claiming to show reptilian features briefly visible",
+        "status": "debunked",
+        "analysis": "Video compression artifacts, lighting effects, pareidolia. No genuine evidence.",
+        "source": "Various conspiracy theorists"
+      }
+    ],
+    "audio": [],
+    "trace": []
+  },
+
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": [
+      {
+        "name": "Science Fiction Influence",
+        "description": "Conspiracy theory draws heavily on sci-fi sources like V, They Live, and pulp fiction",
+        "proponents": ["Skeptics", "Media scholars"],
+        "evidence_cited": ["Clear parallels to fictional narratives", "Timeline correlation with media releases"]
+      },
+      {
+        "name": "Antisemitic Tropes",
+        "description": "Theory recycles antisemitic conspiracy tropes with alien overlay",
+        "proponents": ["Scholars", "Anti-defamation organizations"],
+        "evidence_cited": ["Targeting of banking families", "Secret control narratives", "Historical antisemitic parallels"]
+      },
+      {
+        "name": "Psychological Phenomenon",
+        "description": "Pattern recognition, pareidolia, and conspiracy thinking create perceived evidence",
+        "proponents": ["Psychologists"],
+        "evidence_cited": ["Video compression artifacts misinterpreted", "Confirmation bias", "Need for explanatory narratives"]
+      },
+      {
+        "name": "No Evidence Whatsoever",
+        "description": "Zero credible evidence for reptilian aliens",
+        "proponents": ["Scientists", "Skeptics", "Mainstream consensus"],
+        "evidence_cited": ["Complete absence of physical evidence", "Violation of known biology and physics"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "No legitimate folklore basis; some conspiracy theorists inappropriately cite dragon/serpent mythology."
+    },
+    "indigenous": {
+      "cultures": [],
+      "significance": "N/A",
+      "sensitivity_note": "Some conspiracy theorists inappropriately invoke Indigenous or ancient cultures. These claims are fabricated.",
+      "respect_guidelines": "Do not conflate legitimate cultural traditions with conspiracy theories."
+    },
+    "popular_culture": {
+      "literature": [
+        "David Icke books (conspiracy theory)",
+        "Numerous conspiracy theory publications"
+      ],
+      "film_tv": [
+        "V (1983-1985) — Reptilian aliens disguised as humans",
+        "They Live (1988) — Aliens secretly controlling society",
+        "Star Trek — Various reptilian species",
+        "Numerous sci-fi featuring reptilian aliens"
+      ],
+      "games": [
+        "Various sci-fi games featuring reptilian species"
+      ],
+      "other": [
+        "Internet memes",
+        "Conspiracy theory culture",
+        "YouTube conspiracy content"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "Scholars study the conspiracy theory as a cultural and psychological phenomenon, not as a potentially real phenomenon."
+  },
+
+  "sources": [
+    {
+      "id": "icke-1999",
+      "type": "book",
+      "title": "The Biggest Secret",
+      "authors": ["David Icke"],
+      "publication": "Bridge of Love",
+      "date": "1999",
+      "note": "Primary source of modern reptilian conspiracy theory"
+    },
+    {
+      "id": "barkun-2013",
+      "type": "book",
+      "title": "A Culture of Conspiracy: Apocalyptic Visions in Contemporary America",
+      "authors": ["Michael Barkun"],
+      "publication": "University of California Press",
+      "date": "2013",
+      "isbn": "978-0520276826",
+      "note": "Academic analysis of conspiracy theories"
+    },
+    {
+      "id": "v-series",
+      "type": "media",
+      "title": "V (TV miniseries and series)",
+      "date": "1983-1985",
+      "note": "Influential science fiction depicting reptilian aliens"
+    }
+  ]
+}
